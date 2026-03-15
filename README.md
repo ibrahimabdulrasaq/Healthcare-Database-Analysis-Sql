@@ -12,6 +12,17 @@ This repository contains a MySQL healthcare database project that demonstrates h
   
 It is designed as a learning and reference project for SQL beginners.
 
+## Project Overview
+This project demonstrates SQL queries on a healthcare database that stores information about patients, doctors, and appointments. The goal is to:
+
+- Analyze patient demographics
+
+- Retrieve counts by gender
+
+- Identify doctors with confirmed appointments
+
+The database is built in MySQL, and the queries include SELECT, JOIN, GROUP BY, and filtering operations.
+
 ## Key Features:
 - Fully documented SQL script with explanations and sample outputs.
   
@@ -21,4 +32,5 @@ It is designed as a learning and reference project for SQL beginners.
 
 ## Technologies:
 - MySQL
+
 - SQL (SELECT, JOIN, GROUP BY, WHERE)
