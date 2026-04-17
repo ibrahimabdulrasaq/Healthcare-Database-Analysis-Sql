@@ -1,4 +1,4 @@
-# Healthcare Database Analysis - Deeptech Ready
+# Healthcare Database Analysis - Deeptech
 
 This repository contains a MySQL healthcare database project that demonstrates how to:
 
@@ -218,6 +218,38 @@ This project demonstrates how to:
 * Analyze patient demographics and doctor appointments
 
 It can be used as a reference project for SQL practice.
+
+---
+
+## ⚠️ Limitations
+
+While this project demonstrates key SQL concepts effectively, it has a few limitations:
+
+- Small Dataset: The dataset is minimal, which limits the depth of analysis and the ability to uncover more complex patterns.
+
+- Limited Scope of Analysis: The queries focus on basic retrieval, filtering, aggregation, and joins. More advanced analysis was not explored.
+
+- Static Data: The database represents a fixed snapshot, meaning it does not account for real-time updates or changes over time.
+
+- Simplified Database Structure: The schema includes only three tables (patients, doctors, appointments), which does not fully capture the complexity of real-world healthcare systems.
+
+- Basic Appointment Insights: Analysis is limited to confirmed appointments without deeper exploration of trends such as frequency, timing, or patient behavior.
+
+---
+
+## 🚀 Future Improvements
+
+This project provides a solid foundation, but there are several ways it can be expanded to make the analysis more robust and closer to real-world applications:
+
+- Expand the Dataset: Incorporating more records would allow for deeper analysis and more reliable insights, especially when working with aggregations and trends.
+
+- Enhance the Database Structure: Adding more related tables (e.g., additional healthcare-related entities) would improve the database design and better reflect real-world systems.
+
+- Perform More Advanced Queries: Extending the analysis to include more complex SQL operations would provide deeper insights beyond basic filtering and aggregation.
+
+- Explore Appointment Trends: Analyzing appointment data over time could help uncover patterns in scheduling and patient-doctor interactions.
+
+-Improve Data Analysis Depth: Going beyond basic counts and filters to explore more detailed patterns would strengthen the overall analytical value of the project.
 
 ---
 
